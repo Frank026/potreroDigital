@@ -1,0 +1,55 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+img {
+  float: right;
+  width: 50%;
+  height: 70%;
+  margin-left: 65px;
+
+
+
+}
+main{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+ justify-content: center;
+
+
+  }
+
+  main section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+
+  }
+
+  html{
+    font-family:'Noto Sans Display', sans-serif;
+
+  }
+
+.section__titule{
+  text-align: left;
+  font-size: 1.2rem;
+
+}
+.section__subtitule{
+  font-style: italic;
+  color: gray;
+  text-align: justify;
+  font-size: 0.7rem;
+}
+
+
+#PD p{
+ text-align: left;
+   color: gray;
+  font-size: 0.7rem;
+}
