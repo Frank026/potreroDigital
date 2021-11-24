@@ -1,0 +1,70 @@
+.navbar-brand img{
+
+    height: 41px;
+
+}
+.card.text-center.container{
+
+    background-color: rgba(0, 119, 255, 0.562);
+
+}
+.card-body{
+
+    width: 100%;
+    color: azure;
+    font-family: 'Signika Negative', sans-serif;
+    background-color: rgba(25, 97, 253, 0.658);
+    border-color: rgb(255, 255, 255);
+    border-width: 5px;
+    border-radius: 3%;
+}
+
+body{
+
+    background-image: url(../img/dc2e54733d48a96bf85e05382bccead3.jpg);
+
+}
+
+img.card-img-top{
+
+    height: 460px;
+    width: 1000px;
+}
+
+.ygo{
+    width: 600px;
+    height: 210px;
+}
+
+.card-header{
+    color: azure;
+   
+    font-family: 'Signika Negative', sans-serif;
+
+}
+#tapete{
+    height: 750px;
+   
+}
+hr{
+    border: none; 
+    height: 1px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255); 
+}
+
+.card-text.b{
+
+   
+    border-radius: 3%;
+    width: 38%;
+     
+
+}
+.app{
+    position: relative;
+    top: -499px;
+    left: 400px;
+    width: 150px;
+    height: 7px;
+}
