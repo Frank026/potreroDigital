@@ -1,0 +1,49 @@
+body{
+
+    background-image: url(../img/dc2e54733d48a96bf85e05382bccead3.jpg);
+
+}
+.navbar-brand img{
+
+    height: 41px;
+
+}
+.card.text-center.container{
+
+    background-color: rgba(0, 119, 255, 0.562);
+
+}
+.card.container{
+
+    background-color: rgba(0, 119, 255, 0.562);
+
+}
+.card.mb-3{
+    background-color: rgba(25, 97, 253, 0.658);
+    border-color: rgb(255, 255, 255);
+    border-width: 5px;
+    
+}
+.card-body{
+    color: azure;
+    
+    font-family: 'Signika Negative', sans-serif;
+}
+.card-body.DM{
+ 
+    width: 100%;
+    
+}
+.card-title{
+    font-size: 40px;
+}
+.img-fluid.rounded-start{
+   height: 100%;  
+   width: 100%;
+}
+hr{
+    border: none; 
+    height: 1px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255); 
+}
